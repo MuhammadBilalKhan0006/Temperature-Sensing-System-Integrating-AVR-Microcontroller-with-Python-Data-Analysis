@@ -1,0 +1,2 @@
+# Temperature-Sensing-System-Integrating-AVR-Microcontroller-with-Python-Data-Analysis
+This assignment covers serial communication between a microcontroller and a PC, data collection from an LM35 sensor, and basic Python concepts.  Key topics:  Python libraries Data transmission to AVR Plotting ATmega16A data Linear regression The LM35 outputs millivolt readings, calibrated to Celsius and shown on a seven-segment display.
