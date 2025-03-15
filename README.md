@@ -5,7 +5,7 @@ Objectives:
 
 
 
-		 This assignment basically revolves around the concepts of serial communication between the microcontroller and the PC. The assignment also holds the part where we have to collect the data from a sensor named LM35. Moreover, the assignment also introduces us to some simple parts of python language. The concepts that are involved in the python are:
+This assignment basically revolves around the concepts of serial communication between the microcontroller and the PC. The assignment also holds the part where we have to collect the data from a sensor named LM35. Moreover, the assignment also introduces us to some simple parts of python language. The concepts that are involved in the python are:
 •	Introduction to libraries of Python
 •	Learn how to transmit data using python to the AVR.
 •	Plotting the data received from the atmega16a on the PC.
